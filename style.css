@@ -1,0 +1,135 @@
+.box{
+    height: 700px;
+    width: 800px;
+    background-color: rgb(13, 235, 161);
+    margin: 50px auto;
+    border-radius: 2%;
+}
+.content{
+    height: 500px;
+    width: 600px;
+    margin: auto;
+    padding-top: 120px;
+    font-size: large;
+    font-weight: bold;
+}
+.button{
+    background-color: white;
+    font: black;
+    height: 55px;
+    width: 300px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: larger;
+    font-family: 'calibri';
+    font-weight: bold;
+    padding-top: 10px;  
+}
+.heading{
+    font-size: 70px;
+}
+.box1{
+    height: 700px;
+    width: 800px;
+    margin: 50px auto;
+    border-radius: 2%;
+    border: 2px solid rgba(128, 128, 128, 0.524);
+}
+.profiles{
+    height: 500px;
+    width: 650px;
+    margin: auto;
+    font-size: 30px ;
+    font-weight: lighter;
+}
+.img{
+    height: 150px;
+    width: 150px;
+    border: 3px solid rgb(0, 157, 255);
+    border-radius: 50%;
+}
+.img1{
+    height: 150px;
+    width: 150px;
+    border: 3px solid rgb(0, 157, 255);
+    border-radius: 50%;
+    margin-left: 250px;
+}
+.box2{
+    height: 100px;
+    width: 650px;
+    margin: auto;
+    font-size: x-large;
+    color: rgb(0, 106, 255);
+    font-weight: 700;
+    padding-top: 35px;
+    font-family: calibri;
+}
+.boxII{
+    height: 950px;
+    width: 600px;
+    margin: 50px auto;
+    border-radius: 2%;
+    border: 2px solid rgba(128, 128, 128, 0.524);
+}
+.features{
+    height: 600px;
+    width: 450px;
+    margin: auto 50px;
+}
+.button1{
+    height: 50px;
+    width: 250px;
+    border: 2px solid rgb(213, 209, 209);
+    border-radius: 15px;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    color: blue;
+}
+.img2{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.get{
+    font-size: 35px;
+    color: rgb(137, 131, 131);
+}
+#h1{
+    font-style: normal;
+}
+.boxIII{
+    text-align: center;
+}
+.input{
+    height: 40px;
+    width: 350px;
+    border: 1px solid rgb(175, 171, 171);
+    border-radius: 10px;
+    padding-left: 10px;
+    font-size: smaller;
+}
+.button2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    height: 40px;
+    width: 250px;
+    padding-top: 10px;
+    border-radius: 40px;
+}
+.signup{
+    line-height: 2px;
+    font-size: 15px;
+    color: rgb(149, 146, 146);
+}
+.terms{
+    height: 100px;
+    width: 195px;
+    font-size: 10px;
+    margin: auto;
+    color: rgb(124, 121, 121);
+}
